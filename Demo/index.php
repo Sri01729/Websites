@@ -11,7 +11,8 @@
 <body>
     <h1>
         <?php
-            echo "Hello, "."World";
+            $greeting = "Hello";
+            echo $greeting." "."World";
         ?>
     </h1>
 </body>
